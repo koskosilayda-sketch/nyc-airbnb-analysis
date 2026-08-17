@@ -27,7 +27,4 @@ Farklı formatlardaki (CSV, Excel, TSV) veri kaynakları birleştirilerek temizl
 └── README.md                     # Proje dökümantasyonu
 
 
-git clone [https://github.com/KULLANICI_ADIN/nyc-airbnb-analysis.git](https://github.com/KULLANICI_ADIN/nyc-airbnb-analysis.git)
-cd nyc-airbnb-analysis
-pip install pandas numpy matplotlib seaborn openpyxl jupyter
-jupyter notebook notebook.ipynb
+
